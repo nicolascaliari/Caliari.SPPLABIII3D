@@ -1,0 +1,44 @@
+{
+  "monstruos": [
+    {
+      "id": 3,
+      "nombre": "Rufus",
+      "tipo": "Hombre lobo",
+      "miedo": "70",
+      "defensa": "crucifijo",
+      "alias": "El Aullador"
+    },
+    {
+      "id": 4,
+      "nombre": "Mortimer",
+      "tipo": "Zombie",
+      "miedo": "50",
+      "defensa": "pocion",
+      "alias": "El Decrépito"
+    },
+    {
+      "id": 5,
+      "nombre": "Helga",
+      "tipo": "Bruja",
+      "miedo": 85,
+      "defensa": "estaca",
+      "alias": "La Hechicera"
+    },
+    {
+      "id": 7,
+      "nombre": "Lázaro",
+      "tipo": "Zombie",
+      "miedo": 60,
+      "defensa": "plata",
+      "alias": "El Retornado"
+    },
+    {
+      "id": 8,
+      "nombre": "Luna",
+      "tipo": "Hombre lobo",
+      "miedo": "75",
+      "defensa": "on",
+      "alias": "La Aulladora"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export const tipos =["Esqueleto", "Zombie", "Vampiro", "Fantasma", "Bruja", "Hombre lobo"]
